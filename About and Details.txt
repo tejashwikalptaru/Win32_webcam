@@ -1,0 +1,42 @@
+TejasCAM v2.0
+___________________________________________________
+This is a small under construction Webcam utility,
+which is able to take still photos from your 
+installed webcams. 
+Tested on Windows 7 Enterprise Edition,32 BIT
+This version is still under development and
+testing phase, so bugs can be there.
+
+If you find any bug or like to give us feedbacks
+please feel free to contact us at:
+http://www.techtejash.com
+___________________________________________________
+
+How to use:
+1. Run the application, and click on Save folder.
+   Now select your desired folder, where picture
+   will be saved.
+2. There is also an option of Image preview. If 
+   this option is enabled, you will be asked, if
+   you want to view the taken images or not. You 
+   can disable this option if you don't want 
+   instant preview.
+3. There is also an option of open.This will open
+   your folder,where photos are saved.
+4. Click on Start Camera, this will start your
+   webcam, and you can see images.
+5. Click on setting, for webcam settings like
+   camera selection,brightness, contrast and others.
+6. Click on Capture to grab and save your images.
+
+EULA:
+TejashCAM is a product of TechTejash Developers, India.
+You are only permitted to use this tool, (not for illegal purpose
+like spying, hacking etc), you can use and distribute the copy
+of this tool as provided, unmodified in any manner. Reversing or 
+modifying the executable file of this tool will be considered as
+cyber crime and will be punished under cyber laws of Indian Government.
+
+For any information, contact us at:
+http://www.techtejash.com
+http://support.techtejash.com
